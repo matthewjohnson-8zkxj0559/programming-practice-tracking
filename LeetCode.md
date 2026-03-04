@@ -110,4 +110,5 @@
 | 20260228       | (Easy)     | 226. Invert Binary Tree                                                    |
 | 20260301       | (Easy)     | 228. Summary Ranges                                                        |
 | 20260302       | (Medium)   | 90. Subsets II                                                             |
+| 20260303       | (Easy)     | 231. Power Of Two                                                          |
 
