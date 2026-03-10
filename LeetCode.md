@@ -116,4 +116,5 @@
 | 20260306       | (Easy)     | 242. Valid Anagram                                                         |
 | 20260307       | (Easy)     | 257. Binary Tree Paths                                                     |
 | 20260309       | (Easy)     | 258. Add Digits                                                            |
+| 20260310       | (Easy)     | 263. Numbers Without Prime Factors Greater Than 5                          |
 
