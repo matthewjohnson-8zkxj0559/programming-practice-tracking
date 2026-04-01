@@ -135,4 +135,5 @@
 | 20260329       | (Hard)     | 32. Longest Valid Parenthesis                                              |
 | 20260330       | (Medium)   | 89. Gray Code                                                              |
 | 20260331       | (Easy)     | 367. Valid Perfect Square                                                  |
+| 20260401       | (Easy)     | 374. Guess Number Higher or Lower                                          |
 
