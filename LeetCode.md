@@ -138,4 +138,5 @@
 | 20260401       | (Easy)     | 374. Guess Number Higher or Lower                                          |
 | 20260402       | (Easy)     | 383. Ransom Note                                                           |
 | 20260403       | (Easy)     | 387. First Unique Character in a String                                    |
+| 20260405       | (Easy)     | 389. Find the Difference                                                   |
 
