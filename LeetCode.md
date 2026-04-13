@@ -145,4 +145,5 @@
 | 20260409       | (Easy)     | 405. Convert a Number to Hexadecimal                                       |
 | 20260410       | (Easy)     | 410. Longest Palindrome                                                    |
 | 20260411       | (Easy)     | 412. Fizz Buzz                                                             |
+| 20260412       | (Easy)     | 414. Third Maximum Number                                                  |
 
