@@ -158,3 +158,5 @@
 | 20260423       | (Easy)     | 476. Number Complement                                                     |
 | 20260424       | (Easy)     | 482. License Key Formatting                                                |
 | 20260425       | (Easy)     | 485. Max Consecutive Ones                                                  |
+| 20260426       | (Easy)     | 492. Construct the Rectangle                                               |
+
