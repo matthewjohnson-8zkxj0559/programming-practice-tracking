@@ -172,4 +172,5 @@
 | 20260509       | (Medium)   | 97. Interleaving String                                                    |
 | 20260510       | (Easy)     | 530. Minimum Absolute Difference                                           |
 | 20260511       | (Easy)     | 541. Reverse String II                                                     |
+| 20260512       | (Easy)     | 543. Diameter of Binary Tree                                               |
 
