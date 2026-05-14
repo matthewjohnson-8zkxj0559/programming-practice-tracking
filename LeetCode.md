@@ -174,4 +174,5 @@
 | 20260511       | (Easy)     | 541. Reverse String II                                                     |
 | 20260512       | (Easy)     | 543. Diameter of Binary Tree                                               |
 | 20260513       | (Easy)     | 551. Student Attendance Record I                                           |
+| 20260514       | (Medium)   | 98. Validate Binary Search Tree                                            |
 
