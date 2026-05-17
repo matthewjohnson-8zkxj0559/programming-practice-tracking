@@ -176,4 +176,6 @@
 | 20260513       | (Easy)     | 551. Student Attendance Record I                                           |
 | 20260514       | (Medium)   | 98. Validate Binary Search Tree                                            |
 | 20260515       | (Easy)     | 557. Reverse Words in a String III                                         |
+| 20260516       | (Easy)     | 559. Maximum Depth of N-ary Tree                                           |
+
 
