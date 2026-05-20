@@ -179,4 +179,5 @@
 | 20260516       | (Easy)     | 559. Maximum Depth of N-ary Tree                                           |
 | 20260517       | (Medium)   | 99. Recover Binary Search Tree                                             |
 | 20260518       | (Easy)     | 561. Array Partition                                                       |
+| 20260519       | (Easy)     | 563. Binary Tree Tilt                                                      |
 
