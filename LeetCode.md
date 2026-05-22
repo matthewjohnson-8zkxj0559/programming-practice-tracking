@@ -181,4 +181,5 @@
 | 20260518       | (Easy)     | 561. Array Partition                                                       |
 | 20260519       | (Easy)     | 563. Binary Tree Tilt                                                      |
 | 20260520       | (Easy)     | 566. Reshape the Matrix                                                    |
+| 20260521       | (Easy)     | 572. Subtree of Another Tree                                               |
 
