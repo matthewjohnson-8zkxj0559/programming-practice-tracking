@@ -183,4 +183,5 @@
 | 20260520       | (Easy)     | 566. Reshape the Matrix                                                    |
 | 20260521       | (Easy)     | 572. Subtree of Another Tree                                               |
 | 20260522       | (Easy)     | 575. Distribute Candies                                                    |
+| 20260523       | (Easy)     | 589. N-Ary Tree Preorrder Traversal                                        |
 
