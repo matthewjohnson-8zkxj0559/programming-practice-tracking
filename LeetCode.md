@@ -185,4 +185,5 @@
 | 20260522       | (Easy)     | 575. Distribute Candies                                                    |
 | 20260523       | (Easy)     | 589. N-Ary Tree Preorder Traversal                                         |
 | 20260524       | (Easy)     | 590. N-Ary Tree Postorder Traversal                                        |
+| 20260525       | (Easy)     | 594. Longest Harmonious Subsequence                                        |
 
