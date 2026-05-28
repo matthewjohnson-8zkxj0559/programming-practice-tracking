@@ -187,4 +187,5 @@
 | 20260524       | (Easy)     | 590. N-Ary Tree Postorder Traversal                                        |
 | 20260525       | (Easy)     | 594. Longest Harmonious Subsequence                                        |
 | 20260526       | (Easy)     | 598. Range Addition II                                                     |
+| 20260527       | (Easy)     | 599. Minimum Index Sum of Two Lists                                        |
 
