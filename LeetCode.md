@@ -188,5 +188,6 @@
 | 20260525       | (Easy)     | 594. Longest Harmonious Subsequence                                        |
 | 20260526       | (Easy)     | 598. Range Addition II                                                     |
 | 20260527       | (Easy)     | 599. Minimum Index Sum of Two Lists                                        |
+| 20260528       | (Easy)     | 605. Can Place Flowers                                                     |
 | 20260529       | (Easy)     | 617. Merge Two Binary Trees                                                |
 
