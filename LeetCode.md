@@ -191,4 +191,5 @@
 | 20260528       | (Easy)     | 605. Can Place Flowers                                                     |
 | 20260529       | (Easy)     | 617. Merge Two Binary Trees                                                |
 | 20260530       | (Easy)     | 628. Maximum Product of Three Numbers                                      |
+| 20260531       | (Easy)     | 637. Average of Levels in Binary Tree                                      |
 
