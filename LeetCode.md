@@ -190,4 +190,5 @@
 | 20260527       | (Easy)     | 599. Minimum Index Sum of Two Lists                                        |
 | 20260528       | (Easy)     | 605. Can Place Flowers                                                     |
 | 20260529       | (Easy)     | 617. Merge Two Binary Trees                                                |
+| 20260530       | (Easy)     | 628. Maximum Product of Three Numbers                                      |
 
