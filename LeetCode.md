@@ -192,4 +192,6 @@
 | 20260529       | (Easy)     | 617. Merge Two Binary Trees                                                |
 | 20260530       | (Easy)     | 628. Maximum Product of Three Numbers                                      |
 | 20260531       | (Easy)     | 637. Average of Levels in Binary Tree                                      |
+| 20260602       | (Easy)     | 643. Maximum Average Subarray I                                            |
+
 
