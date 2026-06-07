@@ -196,4 +196,5 @@
 | 20260603       | (Easy)     | 645. Set Mismatch                                                          |
 | 20260604       | (Easy)     | 653. Two Sum IV - Input is a BST                                           |
 | 20260605       | (Easy)     | 657. Robot Return to Origin                                                |
+| 20260606       | (Easy)     | 661. Image Smoother                                                        |
 
