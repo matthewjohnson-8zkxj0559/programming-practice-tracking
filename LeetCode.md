@@ -198,4 +198,5 @@
 | 20260605       | (Easy)     | 657. Robot Return to Origin                                                |
 | 20260606       | (Easy)     | 661. Image Smoother                                                        |
 | 20260607       | (Easy)     | 671. Second Minimum Node in a Binary Tree                                  |
+| 20260608       | (Easy)     | 674. Longest Continuous Increasing Subsequence                             |
 
