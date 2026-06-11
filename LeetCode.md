@@ -200,4 +200,4 @@
 | 20260607       | (Easy)     | 671. Second Minimum Node in a Binary Tree                                  |
 | 20260608       | (Easy)     | 674. Longest Continuous Increasing Subsequence                             |
 | 20260609       | (Easy)     | 680. Valid Palindrome II                                                   |
-
+| 20260610       | (Easy)     | 682. Baseball Game                                                         |
