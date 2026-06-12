@@ -201,3 +201,5 @@
 | 20260608       | (Easy)     | 674. Longest Continuous Increasing Subsequence                             |
 | 20260609       | (Easy)     | 680. Valid Palindrome II                                                   |
 | 20260610       | (Easy)     | 682. Baseball Game                                                         |
+| 20260611       | (Easy)     | 693. Binary Number with Alternating Bits                                   |
+
