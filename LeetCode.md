@@ -202,4 +202,5 @@
 | 20260609       | (Easy)     | 680. Valid Palindrome II                                                   |
 | 20260610       | (Easy)     | 682. Baseball Game                                                         |
 | 20260611       | (Easy)     | 693. Binary Number with Alternating Bits                                   |
+| 20260612       | (Easy)     | 696. Count Binary Substrings                                               |
 
