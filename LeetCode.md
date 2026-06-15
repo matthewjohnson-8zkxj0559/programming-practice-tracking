@@ -204,4 +204,5 @@
 | 20260611       | (Easy)     | 693. Binary Number with Alternating Bits                                   |
 | 20260612       | (Easy)     | 696. Count Binary Substrings                                               |
 | 20260613       | (Easy)     | 697. Degree of an Array                                                    |
+| 20260614       | (Easy)     | 700. Search in Binary Search Tree                                          |
 
