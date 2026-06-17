@@ -206,4 +206,5 @@
 | 20260613       | (Easy)     | 697. Degree of an Array                                                    |
 | 20260614       | (Easy)     | 700. Search in Binary Search Tree                                          |
 | 20260615       | (Easy)     | 703. Kth Largest Element in a Stream                                       |
+| 20260616       | (Easy)     | 704. Binary Search                                                         |
 
