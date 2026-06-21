@@ -210,4 +210,5 @@
 | 20260617       | (Easy)     | 705. Design Hashset                                                        |
 | 20260618       | (Easy)     | 706. Design HashMap                                                        |
 | 20260619       | (Easy)     | 709. To Lower Case                                                         |
+| 20260620       | (Easy)     | 717. 1 and 2 bit characters                                                |
 
