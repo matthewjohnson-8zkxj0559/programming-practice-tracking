@@ -214,4 +214,5 @@
 | 20260621       | (Easy)     | 724. Find Pivot Index                                                      |
 | 20260622       | (Easy)     | 728. Self Dividing Numbers                                                 |
 | 20260623       | (Easy)     | 733. Flood Fill                                                            |
+| 20260624       | (Easy)     | 744. Find Smallest Letter Greater Than Target                              |
 
