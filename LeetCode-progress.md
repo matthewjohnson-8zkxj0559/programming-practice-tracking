@@ -4,4 +4,5 @@
 | -----------------|------------|------------------------------------------------------|
 | 20251025         | (Hard)     | 10. Regular Expression Matching                      |
 | 20251109         | (Hard)     | 30. Substring with Concatenation of All Words        |
+| 20260625         | (Easy)     | 746. Min Cost Stair Climbing                         |
 
