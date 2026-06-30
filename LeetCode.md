@@ -219,4 +219,5 @@
 | 20260626       | (Easy)     | 747. Largest Number At Least Twice of Others                               |
 | 20260627       | (Easy)     | 748. Shortest Completing Word                                              |
 | 20260628       | (Easy)     | 762. Prime Number of Set Bits in Binary Representation                     |
+| 20260629       | (Easy)     | 766. Toeplitz Matrix                                                       |
 
