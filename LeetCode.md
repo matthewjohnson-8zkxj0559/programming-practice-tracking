@@ -221,4 +221,5 @@
 | 20260628       | (Easy)     | 762. Prime Number of Set Bits in Binary Representation                     |
 | 20260629       | (Easy)     | 766. Toeplitz Matrix                                                       |
 | 20260630       | (Easy)     | 771. Jewels and Stones                                                     |
+| 20260701       | (Easy)     | 783. Minimum Distance Between BST Nodes                                    |
 
