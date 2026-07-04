@@ -223,4 +223,5 @@
 | 20260630       | (Easy)     | 771. Jewels and Stones                                                     |
 | 20260701       | (Easy)     | 783. Minimum Distance Between BST Nodes                                    |
 | 20260702       | (Easy)     | 796. Rotate String                                                         |
+| 20260703       | (Easy)     | 804. Unique Morse Code Words                                               |
 
