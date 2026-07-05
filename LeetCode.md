@@ -224,4 +224,5 @@
 | 20260701       | (Easy)     | 783. Minimum Distance Between BST Nodes                                    |
 | 20260702       | (Easy)     | 796. Rotate String                                                         |
 | 20260703       | (Easy)     | 804. Unique Morse Code Words                                               |
+| 20260704       | (Easy)     | 806. Number of Lines to Write String                                       |
 
