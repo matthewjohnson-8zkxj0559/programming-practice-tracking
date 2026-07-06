@@ -225,4 +225,5 @@
 | 20260702       | (Easy)     | 796. Rotate String                                                         |
 | 20260703       | (Easy)     | 804. Unique Morse Code Words                                               |
 | 20260704       | (Easy)     | 806. Number of Lines to Write String                                       |
+| 20260705       | (Easy)     | 812. Largest Area Triangle                                                 |
 
