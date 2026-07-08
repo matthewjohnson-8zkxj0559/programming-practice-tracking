@@ -227,4 +227,5 @@
 | 20260704       | (Easy)     | 806. Number of Lines to Write String                                       |
 | 20260705       | (Easy)     | 812. Largest Area Triangle                                                 |
 | 20260706       | (Easy)     | 819. Most Common Word                                                      |
+| 20260707       | (Easy)     | 821. Shortest Distance to a Character                                      |
 
