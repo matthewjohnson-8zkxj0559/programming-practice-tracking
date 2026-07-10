@@ -229,4 +229,5 @@
 | 20260706       | (Easy)     | 819. Most Common Word                                                      |
 | 20260707       | (Easy)     | 821. Shortest Distance to a Character                                      |
 | 20260708       | (Easy)     | 824. Goat Latin                                                            |
+| 20260709       | (Easy)     | 830. Positions of Large Groups                                             |
 
