@@ -230,4 +230,5 @@
 | 20260707       | (Easy)     | 821. Shortest Distance to a Character                                      |
 | 20260708       | (Easy)     | 824. Goat Latin                                                            |
 | 20260709       | (Easy)     | 830. Positions of Large Groups                                             |
+| 20260710       | (Easy)     | 832. Flipping an Image                                                     |
 
