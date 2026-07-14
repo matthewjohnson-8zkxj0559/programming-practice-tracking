@@ -232,4 +232,5 @@
 | 20260709       | (Easy)     | 830. Positions of Large Groups                                             |
 | 20260710       | (Easy)     | 832. Flipping an Image                                                     |
 | 20260712       | (Easy)     | 836. Rectangle Overlap                                                     |
+| 20260713       | (Easy)     | 844. Backspace String Compare                                              |
 
