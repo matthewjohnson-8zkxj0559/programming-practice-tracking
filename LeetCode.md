@@ -233,4 +233,5 @@
 | 20260710       | (Easy)     | 832. Flipping an Image                                                     |
 | 20260712       | (Easy)     | 836. Rectangle Overlap                                                     |
 | 20260713       | (Easy)     | 844. Backspace String Compare                                              |
+| 20260714       | (Easy)     | 859. Buddy Strings                                                         |
 
