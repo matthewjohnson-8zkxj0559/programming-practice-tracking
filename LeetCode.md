@@ -234,4 +234,5 @@
 | 20260712       | (Easy)     | 836. Rectangle Overlap                                                     |
 | 20260713       | (Easy)     | 844. Backspace String Compare                                              |
 | 20260714       | (Easy)     | 859. Buddy Strings                                                         |
+| 20260715       | (Easy)     | 860. Lemonade Change                                                       |
 
