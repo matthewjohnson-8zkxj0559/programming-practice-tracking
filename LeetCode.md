@@ -236,4 +236,5 @@
 | 20260714       | (Easy)     | 859. Buddy Strings                                                         |
 | 20260715       | (Easy)     | 860. Lemonade Change                                                       |
 | 20260717       | (Easy)     | 867. Transpose Matrix                                                      |
+| 20260718       | (Easy)     | 868. Binary Gap                                                            |
 
