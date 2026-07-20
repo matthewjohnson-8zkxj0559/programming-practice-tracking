@@ -237,4 +237,5 @@
 | 20260715       | (Easy)     | 860. Lemonade Change                                                       |
 | 20260717       | (Easy)     | 867. Transpose Matrix                                                      |
 | 20260718       | (Easy)     | 868. Binary Gap                                                            |
+| 20260719       | (Easy)     | 872. Leaf-Similar Trees                                                    |
 
