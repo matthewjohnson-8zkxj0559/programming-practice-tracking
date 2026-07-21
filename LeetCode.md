@@ -238,4 +238,5 @@
 | 20260717       | (Easy)     | 867. Transpose Matrix                                                      |
 | 20260718       | (Easy)     | 868. Binary Gap                                                            |
 | 20260719       | (Easy)     | 872. Leaf-Similar Trees                                                    |
+| 20260720       | (Easy)     | 876. Middle of the Linked List                                             |
 
