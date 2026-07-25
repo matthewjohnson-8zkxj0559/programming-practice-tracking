@@ -241,4 +241,5 @@
 | 20260720       | (Easy)     | 876. Middle of the Linked List                                             |
 | 20260721       | (Easy)     | 883. Projection Area of 3D Shapes                                          |
 | 20260723       | (Easy)     | 884. Uncommon Words from Two Sentences                                     |
+| 20260724       | (Easy)     | 888. Fair Candy Swap                                                       |
 
