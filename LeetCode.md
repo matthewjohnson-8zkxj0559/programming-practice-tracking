@@ -242,4 +242,5 @@
 | 20260721       | (Easy)     | 883. Projection Area of 3D Shapes                                          |
 | 20260723       | (Easy)     | 884. Uncommon Words from Two Sentences                                     |
 | 20260724       | (Easy)     | 888. Fair Candy Swap                                                       |
+| 20260725       | (Easy)     | 892. Surface Area of 3D Shapes                                             |
 
