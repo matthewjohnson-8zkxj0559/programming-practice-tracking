@@ -244,4 +244,5 @@
 | 20260724       | (Easy)     | 888. Fair Candy Swap                                                       |
 | 20260725       | (Easy)     | 892. Surface Area of 3D Shapes                                             |
 | 20260726       | (Easy)     | 896. Monotonic Array                                                       |
+| 20260727       | (Easy)     | 897. Increasing Order Search Tree                                          |
 
