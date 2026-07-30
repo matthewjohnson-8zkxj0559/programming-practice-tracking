@@ -246,4 +246,5 @@
 | 20260726       | (Easy)     | 896. Monotonic Array                                                       |
 | 20260727       | (Easy)     | 897. Increasing Order Search Tree                                          |
 | 20260728       | (Easy)     | 905. Sort Array by Parity                                                  |
+| 20260729       | (Easy)     | 908. Smallest Range I                                                      |
 
