@@ -247,4 +247,5 @@
 | 20260727       | (Easy)     | 897. Increasing Order Search Tree                                          |
 | 20260728       | (Easy)     | 905. Sort Array by Parity                                                  |
 | 20260729       | (Easy)     | 908. Smallest Range I                                                      |
+| 20260730       | (Easy)     | 914. X of a Kind in a Deck of Cards                                        |
 
