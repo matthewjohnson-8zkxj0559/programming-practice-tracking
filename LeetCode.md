@@ -252,4 +252,5 @@
 | 20260801       | (Easy)     | 922. Sort Array By Parity II                                               |
 | 20260802       | (Easy)     | 925. Long Pressed Name                                                     |
 | 20260803       | (Easy)     | 929. Unique Email Addresses                                                |
+| 20260804       | (Easy)     | 933. Number of Recent Calls                                                |
 
