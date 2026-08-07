@@ -254,4 +254,5 @@
 | 20260803       | (Easy)     | 929. Unique Email Addresses                                                |
 | 20260804       | (Easy)     | 933. Number of Recent Calls                                                |
 | 20260805       | (Easy)     | 938. Range Sum of BST                                                      |
+| 20260806       | (Easy)     | 941. Valid Mountain Array                                                  |
 
