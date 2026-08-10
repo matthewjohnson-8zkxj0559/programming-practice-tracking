@@ -256,4 +256,5 @@
 | 20260805       | (Easy)     | 938. Range Sum of BST                                                      |
 | 20260806       | (Easy)     | 941. Valid Mountain Array                                                  |
 | 20260807       | (Easy)     | 942. DI String Match                                                       |
+| 20260809       | (Easy)     | 944. Delete Columns to Make Sorted Array                                   |
 
