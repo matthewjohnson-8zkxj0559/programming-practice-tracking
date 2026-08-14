@@ -259,4 +259,5 @@
 | 20260809       | (Easy)     | 944. Delete Columns to Make Sorted Array                                   |
 | 20260811       | (Easy)     | 953. Verifying an Alien Dictionary                                         |
 | 20260812       | (Easy)     | 961. N-Repeated Element in Size 2N Array                                   |
+| 20260813       | (Easy)     | 965. Univalued Binary Tree                                                 |
 
