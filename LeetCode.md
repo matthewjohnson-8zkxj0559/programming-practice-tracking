@@ -260,4 +260,5 @@
 | 20260811       | (Easy)     | 953. Verifying an Alien Dictionary                                         |
 | 20260812       | (Easy)     | 961. N-Repeated Element in Size 2N Array                                   |
 | 20260813       | (Easy)     | 965. Univalued Binary Tree                                                 |
+| 20260814       | (Easy)     | 977. Squares of a Sorted Array                                             |
 
