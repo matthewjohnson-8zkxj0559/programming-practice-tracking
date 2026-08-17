@@ -262,4 +262,5 @@
 | 20260813       | (Easy)     | 965. Univalued Binary Tree                                                 |
 | 20260814       | (Easy)     | 977. Squares of a Sorted Array                                             |
 | 20260815       | (Easy)     | 989. Add to Array-Form of Integer                                          |
+| 20260816       | (Easy)     | 993. Cousins in Binary Tree                                                |
 
