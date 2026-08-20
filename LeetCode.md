@@ -264,4 +264,5 @@
 | 20260815       | (Easy)     | 989. Add to Array-Form of Integer                                          |
 | 20260816       | (Easy)     | 993. Cousins in Binary Tree                                                |
 | 20260818       | (Easy)     | 997. Find the Town Judge                                                   |
+| 20260819       | (Easy)     | 999. Available Captures for Rook                                           |
 
