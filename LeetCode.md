@@ -265,4 +265,5 @@
 | 20260816       | (Easy)     | 993. Cousins in Binary Tree                                                |
 | 20260818       | (Easy)     | 997. Find the Town Judge                                                   |
 | 20260819       | (Easy)     | 999. Available Captures for Rook                                           |
+| 20260820       | (Easy)     | 1002. Find Common Characters                                               |
 
