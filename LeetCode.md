@@ -277,4 +277,5 @@
 | 20260908       | (Easy)     | 1037. Valid Boomerang                                                      |
 | 20260909       | (Easy)     | 1046. Last Stone Weight                                                    |
 | 20260910       | (Easy)     | 1047. Remove All Adjacent Duplicates In String                             |
+| 20260914       | (Easy)     | 1051. Height Checker                                                       |
 
