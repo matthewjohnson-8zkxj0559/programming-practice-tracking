@@ -280,4 +280,5 @@
 | 20260914       | (Easy)     | 1051. Height Checker                                                       |
 | 20260922       | (Easy)     | 1071. Greatest Common Divisor of Strings                                   |
 | 20260924       | (Easy)     | 1078. Occurrences After Bigram                                             |
+| 20260930       | (Easy)     | 1089. Duplicate Zeros                                                      |
 
