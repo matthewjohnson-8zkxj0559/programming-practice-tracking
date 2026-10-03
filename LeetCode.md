@@ -282,4 +282,5 @@
 | 20260924       | (Easy)     | 1078. Occurrences After Bigram                                             |
 | 20260930       | (Easy)     | 1089. Duplicate Zeros                                                      |
 | 20261001       | (Easy)     | 1103. Distribute Candies to People                                         |
+| 20261002       | (Easy)     | 1108. Defanging an IP Address                                              |
 
