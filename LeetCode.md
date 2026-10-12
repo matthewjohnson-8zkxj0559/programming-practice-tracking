@@ -287,4 +287,5 @@
 | 20261006       | (Easy)     | 1122. Relative Sort Array                                                  |
 | 20261007       | (Easy)     | 1013. Partition Array into Three Equal Parts with Equal Sum                |
 | 20261008       | (Easy)     | 1128. Number of Equivalent Domino Pairs                                    |
+| 20261012       | (Easy)     | 1137. N-th Tribonacci Number                                               |
 
