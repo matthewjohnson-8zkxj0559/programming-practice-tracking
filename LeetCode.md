@@ -290,4 +290,5 @@
 | 20261012       | (Easy)     | 1137. N-th Tribonacci Number                                               |
 | 20261017       | (Easy)     | 1154. Day of the Year                                                      |
 | 20261019       | (Easy)     | 1160. Find Words That Can Be Formed by Characters                          |
+| 20261022       | (Easy)     | 1175. Prime Arrangements                                                   |
 
