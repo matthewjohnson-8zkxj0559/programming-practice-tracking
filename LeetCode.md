@@ -292,4 +292,5 @@
 | 20261019       | (Easy)     | 1160. Find Words That Can Be Formed by Characters                          |
 | 20261022       | (Easy)     | 1175. Prime Arrangements                                                   |
 | 20261025       | (Easy)     | 1184. Distance Between Bus Stops                                           |
+| 20261026       | (Easy)     | 1185. Day of the Week                                                      |
 
