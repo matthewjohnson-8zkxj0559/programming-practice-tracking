@@ -294,4 +294,5 @@
 | 20261025       | (Easy)     | 1184. Distance Between Bus Stops                                           |
 | 20261026       | (Easy)     | 1185. Day of the Week                                                      |
 | 20261027       | (Easy)     | 1189. Maximum Number of Balloons                                           |
+| 20261028       | (Easy)     | 1200. Minimum Absolute Difference                                          |
 
