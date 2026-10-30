@@ -295,4 +295,5 @@
 | 20261026       | (Easy)     | 1185. Day of the Week                                                      |
 | 20261027       | (Easy)     | 1189. Maximum Number of Balloons                                           |
 | 20261028       | (Easy)     | 1200. Minimum Absolute Difference                                          |
+| 20261029       | (Easy)     | 1207. Unique Number of Occurrences                                         |
 
