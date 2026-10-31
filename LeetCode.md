@@ -296,4 +296,5 @@
 | 20261027       | (Easy)     | 1189. Maximum Number of Balloons                                           |
 | 20261028       | (Easy)     | 1200. Minimum Absolute Difference                                          |
 | 20261029       | (Easy)     | 1207. Unique Number of Occurrences                                         |
+| 20261030       | (Easy)     | 1217. Minimum Cost to Move Chips to the Same Position                      |
 
