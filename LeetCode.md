@@ -297,4 +297,5 @@
 | 20261028       | (Easy)     | 1200. Minimum Absolute Difference                                          |
 | 20261029       | (Easy)     | 1207. Unique Number of Occurrences                                         |
 | 20261030       | (Easy)     | 1217. Minimum Cost to Move Chips to the Same Position                      |
+| 20261031       | (Easy)     | 1221. Split a Balanced String in to Maximum Number of Balanced Strings     |
 
