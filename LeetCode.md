@@ -298,4 +298,5 @@
 | 20261029       | (Easy)     | 1207. Unique Number of Occurrences                                         |
 | 20261030       | (Easy)     | 1217. Minimum Cost to Move Chips to the Same Position                      |
 | 20261031       | (Easy)     | 1221. Split a Balanced String in to Maximum Number of Balanced Strings     |
+| 20261101       | (Easy)     | 1232. Check if it is a Straight Line                                       |
 
