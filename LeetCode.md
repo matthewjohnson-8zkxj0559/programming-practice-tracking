@@ -299,4 +299,5 @@
 | 20261030       | (Easy)     | 1217. Minimum Cost to Move Chips to the Same Position                      |
 | 20261031       | (Easy)     | 1221. Split a Balanced String in to Maximum Number of Balanced Strings     |
 | 20261101       | (Easy)     | 1232. Check if it is a Straight Line                                       |
+| 20261102       | (Easy)     | 1252. Cells with Odd Values in a Matrix                                    |
 
