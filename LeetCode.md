@@ -300,4 +300,5 @@
 | 20261031       | (Easy)     | 1221. Split a Balanced String in to Maximum Number of Balanced Strings     |
 | 20261101       | (Easy)     | 1232. Check if it is a Straight Line                                       |
 | 20261102       | (Easy)     | 1252. Cells with Odd Values in a Matrix                                    |
+| 20261103       | (Easy)     | 1260. Shift 2D Grid                                                        |
 
