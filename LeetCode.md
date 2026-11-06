@@ -301,4 +301,5 @@
 | 20261101       | (Easy)     | 1232. Check if it is a Straight Line                                       |
 | 20261102       | (Easy)     | 1252. Cells with Odd Values in a Matrix                                    |
 | 20261103       | (Easy)     | 1260. Shift 2D Grid                                                        |
+| 20261106       | (Easy)     | 1266. Minimum Time Visiting All Points                                     |
 
