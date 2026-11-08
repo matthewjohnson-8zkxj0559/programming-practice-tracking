@@ -303,4 +303,5 @@
 | 20261103       | (Easy)     | 1260. Shift 2D Grid                                                        |
 | 20261106       | (Easy)     | 1266. Minimum Time Visiting All Points                                     |
 | 20261107       | (Easy)     | 1275. Find Winner on a Tic Tac Toe Game                                    |
+| 20261108       | (Easy)     | 1281. Subtract the Product and Sum of Digits of an Integer                 |
 
