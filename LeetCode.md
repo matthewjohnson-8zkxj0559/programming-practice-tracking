@@ -305,4 +305,5 @@
 | 20261107       | (Easy)     | 1275. Find Winner on a Tic Tac Toe Game                                    |
 | 20261108       | (Easy)     | 1281. Subtract the Product and Sum of Digits of an Integer                 |
 | 20261111       | (Easy)     | 1287. Element Appearing More Than 25% in Sorted Array                      |
+| 20261112       | (Easy)     | 1290. Convert Binary Number in a Linked List to Integer                    |
 
