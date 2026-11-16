@@ -308,4 +308,5 @@
 | 20261112       | (Easy)     | 1290. Convert Binary Number in a Linked List to Integer                    |
 | 20261113       | (Easy)     | 1295. Find Numbers with Even Number of Digits                              |
 | 20261114       | (Easy)     | 1299. Replace Elements with Greatest Element on Right Side                 |
+| 20261115       | (Easy)     | 1304. Find N Unique Integers that Sum to Zero                              |
 
