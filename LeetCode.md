@@ -309,4 +309,5 @@
 | 20261113       | (Easy)     | 1295. Find Numbers with Even Number of Digits                              |
 | 20261114       | (Easy)     | 1299. Replace Elements with Greatest Element on Right Side                 |
 | 20261115       | (Easy)     | 1304. Find N Unique Integers that Sum to Zero                              |
+| 20261116       | (Easy)     | 1309. Decrypt String from Alphabet to Integer Mapping                      |
 
