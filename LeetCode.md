@@ -310,4 +310,5 @@
 | 20261114       | (Easy)     | 1299. Replace Elements with Greatest Element on Right Side                 |
 | 20261115       | (Easy)     | 1304. Find N Unique Integers that Sum to Zero                              |
 | 20261116       | (Easy)     | 1309. Decrypt String from Alphabet to Integer Mapping                      |
+| 20261117       | (Easy)     | 1313. Decompress Run-Length Encoded List                                   |
 
