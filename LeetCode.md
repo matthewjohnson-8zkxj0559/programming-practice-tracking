@@ -312,4 +312,5 @@
 | 20261116       | (Easy)     | 1309. Decrypt String from Alphabet to Integer Mapping                      |
 | 20261117       | (Easy)     | 1313. Decompress Run-Length Encoded List                                   |
 | 20261118       | (Easy)     | 1317. Convert Integer to the Sum of Two No-Zero Integers                   |
+| 20261119       | (Easy)     | 1323. Maximum 69 Number                                                    |
 
