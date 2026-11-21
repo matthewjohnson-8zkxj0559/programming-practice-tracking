@@ -313,4 +313,5 @@
 | 20261117       | (Easy)     | 1313. Decompress Run-Length Encoded List                                   |
 | 20261118       | (Easy)     | 1317. Convert Integer to the Sum of Two No-Zero Integers                   |
 | 20261119       | (Easy)     | 1323. Maximum 69 Number                                                    |
+| 20261120       | (Easy)     | 1331. Rank Transform of an Array                                           |
 
