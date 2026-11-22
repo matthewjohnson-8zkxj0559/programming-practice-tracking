@@ -314,4 +314,5 @@
 | 20261118       | (Easy)     | 1317. Convert Integer to the Sum of Two No-Zero Integers                   |
 | 20261119       | (Easy)     | 1323. Maximum 69 Number                                                    |
 | 20261120       | (Easy)     | 1331. Rank Transform of an Array                                           |
+| 20261121       | (Easy)     | 1332. Remove Palindromic Subsequences                                      |
 
