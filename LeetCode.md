@@ -316,4 +316,5 @@
 | 20261120       | (Easy)     | 1331. Rank Transform of an Array                                           |
 | 20261121       | (Easy)     | 1332. Remove Palindromic Subsequences                                      |
 | 20261122       | (Easy)     | 1337. The K Weakest Rows in a Matrix                                       |
+| 20261124       | (Easy)     | 1342. Number of Steps to Reduce a Number to Zero                           |
 
