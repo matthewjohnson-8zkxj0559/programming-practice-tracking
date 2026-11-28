@@ -318,4 +318,5 @@
 | 20261122       | (Easy)     | 1337. The K Weakest Rows in a Matrix                                       |
 | 20261124       | (Easy)     | 1342. Number of Steps to Reduce a Number to Zero                           |
 | 20261125       | (Easy)     | 1346. Check If N and Its Double Exist                                      |
+| 20261128       | (Easy)     | 1351. Count Negative Numbers in a Sorted Matrix                            |
 
